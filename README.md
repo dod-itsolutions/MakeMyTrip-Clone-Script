@@ -1,5 +1,5 @@
 # MakeMyTrip Clone 
-Best Make My Trip Clone Script
+<i>Best Make My Trip Clone Script</i>
 
 The popular ready-made clone site for you with Bus bookings, Flight bookings, Hotel bookings, CRS hotels, Holiday packages etc. User-friendly payment, reservation and event management at ease. An added key future is that you can add/delete/change descriptions and as well transfer images/photos. Through our clone script, you can manage reservations, customer’s knowledge and accessibility, schedule routes, set accessibility, transfer an interactive seat map and let reserved users choose their seats/rooms/packages.
 Our scripts come up with API options and the front-end website is styled as per the customer’s choice.
